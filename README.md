@@ -1,5 +1,4 @@
-# mtg-search-app
-Using the Magic: The Gathering API to search for a card
+# Magic: The Gathering Trading Card Search App
 
 ## Introduction
 This project originally completed development on March 24, 2019.
