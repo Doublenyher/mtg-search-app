@@ -1,0 +1,17 @@
+{
+  "name": "mtg-app",
+  "version": "1.0.0",
+  "description": "An interactive Magic: The Gathering CLI",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson Huynh",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "magicthegathering": "file:../magicthegathering",
+    "superagent": "^4.1.0",
+    "yargs": "^13.2.2"
+  }
+}
