@@ -2,7 +2,7 @@
 
 ## Introduction
 This project originally completed development on March 24, 2019.
-It is an app that runs on the CLI that allows the user to enter a keyword to search for a Magic: The Gathering trading card and displays a list of at least 100 Magic: The Gathering cards that match the keyword.
+It is an app that runs on the CLI which allows the user to enter a keyword to search for a Magic: The Gathering trading card and displays a list of at least 100 Magic: The Gathering cards that match the keyword. Then the user can choose one of the cards displayed to view more detailed information about the card.
 
 ## Requirements
 + JavaScript
